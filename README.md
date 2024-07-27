@@ -49,7 +49,7 @@ export default Card;
 1. I created a javascript Array containing card details for 3 cards.
 
 2. Looped through the details array and render individual card using the
-   respective card details by passing it as a prop
+   respective card details by passing it as a prop.
 
 ```js
 const cardDetails = [

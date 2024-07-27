@@ -118,6 +118,8 @@ svg {
 
 .card-details {
   text-align: center;
+  border-bottom: 1px solid var(--clr-grey);
+  padding: 0.6em;
 }
 
 .card-details h3 {
@@ -125,7 +127,9 @@ svg {
   text-transform: uppercase;
   color: var(--clr-grey);
 }
-
+.card-details h2 {
+  font-size: 1.9rem;
+}
 .feature {
   font-size: 0.7rem;
 }
