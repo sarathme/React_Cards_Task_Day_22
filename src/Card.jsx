@@ -1,5 +1,4 @@
 function Card({ cardDetail }) {
-  console.log(cardDetail);
   return (
     <div className="card">
       <div className="card-details">
